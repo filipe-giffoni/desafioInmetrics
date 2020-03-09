@@ -13,4 +13,4 @@ Feature: Sign up
 
     Examples: 
       |  name  |  login  | password |
-      | João | joao123  | teste123 |
+      | Filipe | fgomes  | teste123 |
